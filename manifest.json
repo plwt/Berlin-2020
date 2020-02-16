@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Berlin 2020",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(105, 48, 208)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(105, 48, 208)",
+      "tab_background_text": "rgb(255, 255, 255)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(17, 0, 0)",
+      "tab_line": "rgb(17, 0, 0)",
+      "popup": "rgb(255, 255, 255)",
+      "popup_text": "rgb(17, 0, 0)",
+      "tab_loading": "rgb(17, 0, 0)"
+    }
+  }
+}
